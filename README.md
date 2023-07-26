@@ -41,9 +41,9 @@
 <img alt="photoshop"  src="https://img.shields.io/badge/photoshop-darkgreen?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff&logoWidth=20&labelColor=darkgreen"  />&nbsp;
 
 ---
-### 🛠👨‍🎓
+### 🛠👨‍🎓 Education
 <img alt="aws"  src="https://img.shields.io/badge/aws%20developer%20associate-darkgreen?&style=for-the-badge&logo=amazon&logoColor=fff&logoWidth=20&labelColor=darkgreen"  />&nbsp;
-<img alt="тгку"  src="https://img.shields.io/badge/nure%Bachelor%of%Computer%Science-darkgreen?&style=for-the-badge&logo=udacity&logoColor=fff&logoWidth=20&labelColor=darkgreen"  />&nbsp;
+<img alt="nure"  src="https://img.shields.io/badge/nure%20bachelor%20of%20computer%20science-darkgreen?&style=for-the-badge&logo=udacity&logoColor=fff&logoWidth=20&labelColor=darkgreen"  />&nbsp;
 ---
 
 [linkedin]: https://www.linkedin.com/in/dmytro-pustovalov-8b4623265/
