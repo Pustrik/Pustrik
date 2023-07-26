@@ -18,7 +18,7 @@
 
 <img alt="typescript" src="https://img.shields.io/badge/typescript-darkgreen?&style=for-the-badge&logo=typescript&logoColor=fff&logoWidth=20&labelColor=darkgreen" />&nbsp;
 <img alt="node.js"  src="https://img.shields.io/badge/node.js-darkgreen?&style=for-the-badge&logo=node.js&logoColor=fff&logoWidth=20&labelColor=darkgreen"  />&nbsp;
-<img alt="aws"  src="https://img.shields.io/badge/aws-darkgreen?&style=for-the-badge&logo=amazone&logoColor=fff&logoWidth=20&labelColor=darkgreen"  />&nbsp;
+<img alt="aws"  src="https://img.shields.io/badge/amazon-darkgreen?&style=for-the-badge&logo=amazon&logoColor=fff&logoWidth=20&labelColor=darkgreen"  />&nbsp;
 <img alt="nest.js"  src="https://img.shields.io/badge/nest.js-darkgreen?&style=for-the-badge&logo=nest.js&logoColor=fff&logoWidth=20&labelColor=darkgreen" />&nbsp;
 <img alt="express"  src="https://img.shields.io/badge/express-darkgreen?&style=for-the-badge&logo=express&logoColor=fff&logoWidth=20&labelColor=darkgreen"  />&nbsp;
 <img alt="mongodb"  src="https://img.shields.io/badge/mongodb-darkgreen?&style=for-the-badge&logo=mongodb&logoColor=fff&logoWidth=20&labelColor=darkgreen"  />&nbsp;
@@ -30,7 +30,7 @@
 <img alt="react" src="https://img.shields.io/badge/react-darkgreen?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=darkgreen" />&nbsp;
 
 ### 🛠 Tools:
-<img alt="webstorm"  src="https://img.shields.io/badge/webstorm-darkgreen?&style=for-the-badge&logo=webstorm&logoColor=fff&logoWidth=20&labelColor=darkgreen"  />
+<img alt="webstorm"  src="https://img.shields.io/badge/webstorm-darkgreen?&style=for-the-badge&logo=webstorm&logoColor=fff&logoWidth=20&labelColor=darkgreen"  />&nbsp;
 <img alt="git"  src="https://img.shields.io/badge/git-darkgreen?&style=for-the-badge&logo=git&logoColor=fff&logoWidth=20&labelColor=darkgreen"  />&nbsp;
 <img alt="github"  src="https://img.shields.io/badge/github-darkgreen?&style=for-the-badge&logo=github&logoColor=fff&logoWidth=20&labelColor=darkgreen"  />&nbsp;
 <img alt="gitlab"  src="https://img.shields.io/badge/gitlab-darkgreen?&style=for-the-badge&logo=gitlab&logoColor=fff&logoWidth=20&labelColor=darkgreen"  />&nbsp;
