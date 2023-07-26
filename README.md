@@ -5,7 +5,7 @@
 ## BackEnd Developer
 
 - From Kharkiv, Ukraine
-- Almost 2 Years Experience in BackEnd Development
+- 1.5 Years Experience in BackEnd Development
 
 ### 🤝 Connect with me:
 
