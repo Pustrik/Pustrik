@@ -1,4 +1,4 @@
-<img src="https://github.com/Peter-Ilyash/Peter-Ilyash/blob/main/assets/cover.png">
+<img src="https://github.com/Pustrik/Pustrik/blob/main/assets/cover.png">
 
 ### Hi, I'm Dima
 
