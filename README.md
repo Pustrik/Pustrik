@@ -43,7 +43,9 @@
 ---
 ### 🛠👨‍🎓
 <img alt="aws"  src="https://img.shields.io/badge/aws%20developer%20associate-darkgreen?&style=for-the-badge&logo=amazon&logoColor=fff&logoWidth=20&labelColor=darkgreen"  />&nbsp;
-<img alt="aws"  src="https://img.shields.io/badge/nure%Bachelor%of%Computer%Science-darkgreen?&style=for-the-badge&logo=udacity&logoColor=fff&logoWidth=20&labelColor=darkgreen"  />&nbsp;
+<img alt="тгку"  src="https://img.shields.io/badge/nure%Bachelor%of%Computer%Science-darkgreen?&style=for-the-badge&logo=udacity&logoColor=fff&logoWidth=20&labelColor=darkgreen"  />&nbsp;
+---
+
 [linkedin]: https://www.linkedin.com/in/dmytro-pustovalov-8b4623265/
 [telegram]: https://t.me/pustrik
 [email]: mailto:dmitrypustovalov2000@gmail.com
