@@ -1,11 +1,11 @@
 <img src="https://github.com/Pustrik/Pustrik/blob/main/assets/cover.png">
 
-### Hi, I'm Dima
+### Hello, I'm Dima
 
 ## BackEnd Developer
 
-- 🌇 From Kharkiv, Ukraine
-- 💻 Almost 2 Years Experience in BackEnd Development
+- From Kharkiv, Ukraine
+- Almost 2 Years Experience in BackEnd Development
 
 ### 🤝 Connect with me:
 
@@ -36,6 +36,6 @@
 <img alt="gitlab"  src="https://img.shields.io/badge/gitlab-darkgreen?&style=for-the-badge&logo=gitlab&logoColor=fff&logoWidth=20&labelColor=darkgreen"  />&nbsp;
 <img alt="photoshop"  src="https://img.shields.io/badge/photoshop-darkgreen?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff&logoWidth=20&labelColor=darkgreen"  />&nbsp;
 
-[linkedin]: https://www.linkedin.com/in/peter-ilyash/
+[linkedin]: https://www.linkedin.com/in/dmytro-pustovalov/
 [telegram]: https://t.me/pustrik
 [email]: mailto:dmitrypustovalov2000@gmail.com
