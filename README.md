@@ -3,18 +3,20 @@
 ### Hello, I'm Dima
 
 ## BackEnd Developer
+---
+### 👨‍💻 About me:
 
 - From Kharkiv, Ukraine
 - 1.5 Years Experience in BackEnd Development
-
+- 22 y.o.
+---
 ### 🤝 Connect with me:
 
 [<img alt="author | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=fff" />][linkedin]
 [<img alt="author | Telegram" src="https://img.shields.io/badge/telegram-0088cc.svg?&style=for-the-badge&logo=telegram&logoColor=fff" />][telegram]
 [<img alt="author | Email" src="https://img.shields.io/badge/email-C21325.svg?&style=for-the-badge&logo=gmail&logoColor=fff" />][email]
-
+---
 ### 💻 Tech Stack:
-
 
 <img alt="typescript" src="https://img.shields.io/badge/typescript-darkgreen?&style=for-the-badge&logo=typescript&logoColor=fff&logoWidth=20&labelColor=darkgreen" />&nbsp;
 <img alt="node.js"  src="https://img.shields.io/badge/node.js-darkgreen?&style=for-the-badge&logo=node.js&logoColor=fff&logoWidth=20&labelColor=darkgreen"  />&nbsp;
@@ -28,7 +30,7 @@
 <img alt="html5"  src="https://img.shields.io/badge/html-darkgreen?&style=for-the-badge&logo=html5&logoColor=fff&logoWidth=20&labelColor=darkgreen"  />&nbsp;
 <img alt="javascript"  src="https://img.shields.io/badge/javascript-darkgreen?&style=for-the-badge&logo=javascript&logoColor=fff&logoWidth=20&labelColor=darkgreen"  />&nbsp;
 <img alt="react" src="https://img.shields.io/badge/react-darkgreen?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=darkgreen" />&nbsp;
-
+---
 ### 🛠 Tools:
 <img alt="webstorm"  src="https://img.shields.io/badge/webstorm-darkgreen?&style=for-the-badge&logo=webstorm&logoColor=fff&logoWidth=20&labelColor=darkgreen"  />&nbsp;
 <img alt="git"  src="https://img.shields.io/badge/git-darkgreen?&style=for-the-badge&logo=git&logoColor=fff&logoWidth=20&labelColor=darkgreen"  />&nbsp;
