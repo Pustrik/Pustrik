@@ -7,7 +7,7 @@
 ### 👨‍💻 About me:
 
 - From Kharkiv, Ukraine
-- 1.5 Years Experience in BackEnd Development
+- 2 Years Experience in BackEnd Development
 
 ---
 ### 🤝 Connect with me:
