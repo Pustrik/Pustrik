@@ -1,13 +1,13 @@
 <img src="https://github.com/Pustrik/Pustrik/blob/main/assets/cover.png">
 
-### Hello, I'm Dima
+### Hey, I'm Dmytro
 
 ## BackEnd Developer
 ---
 ### 👨‍💻 About me:
 
 - From Kharkiv, Ukraine
-- 2 Years Experience in BackEnd Development
+- 3 Years Experience in BackEnd Development
 
 ---
 ### 🤝 Connect with me:
